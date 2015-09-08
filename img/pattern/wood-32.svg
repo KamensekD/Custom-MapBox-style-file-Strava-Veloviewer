@@ -1,0 +1,16 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <metadata id="metadata4769">image/svg+xml</metadata>
+
+ <g>
+   <title>Layer 1</title>
+   <g id="tree1">
+    <path d="m7.319825,4.666224l-1.555482,1.555483l0.891162,0l-1.150409,1.036987l1.036988,0l-1.036988,1.036988l1.555482,0l0,1.036988l0.518495,0l0,-1.036988l1.555482,0l-1.036988,-1.036988l1.036988,0l-1.150409,-1.036987l0.891162,0l-1.555483,-1.555483z" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke="#00ff00" fill="#007f00" stroke-width="0" id="tree1a"/>
+   </g>
+   <g id="tree2">
+    <path d="m25.155781,10.426184l-1.555483,1.555482l0.891163,0l-1.15041,1.036988l1.036989,0l-1.036989,1.036989l1.555483,0l0,1.036987l0.518494,0l0,-1.036987l1.555483,0l-1.036989,-1.036989l1.036989,0l-1.15041,-1.036988l0.891163,0l-1.555483,-1.555482z" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke="#00ff00" fill="#007f00" stroke-width="0" id="tree2a"/>
+   </g>
+   <g id="tree3">
+    <path d="m16.070805,21.849493l-1.555481,1.555483l0.891161,0l-1.150408,1.036987l1.036987,0l-1.036987,1.036989l1.555481,0l0,1.036987l0.518496,0l0,-1.036987l1.555481,0l-1.036985,-1.036989l1.036985,0l-1.150408,-1.036987l0.891161,0l-1.555483,-1.555483z" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke="#00ff00" fill="#007f00" stroke-width="0" id="tree3a"/>
+  </g>
+ </g>
+</svg>

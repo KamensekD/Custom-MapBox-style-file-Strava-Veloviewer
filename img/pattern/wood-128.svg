@@ -1,0 +1,16 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <metadata id="metadata4769">image/svg+xml</metadata>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="tree1">
+   <path id="tree1a" stroke-width="0" fill="#007f00" stroke="#00ff00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m22.315609,11.051455l-7.565391,7.56539l4.334338,0l-5.595236,5.043592l5.043592,0l-5.043592,5.043592l7.56539,0l0,5.043594l2.521795,0l0,-5.043594l7.56539,0l-5.043592,-5.043592l5.043592,0l-5.595236,-5.043592l4.334337,0l-7.565388,-7.56539z"/>
+  </g>
+  <g id="tree2">
+   <path id="tree2a" stroke-width="0" fill="#007f00" stroke="#00ff00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m109.06424,39.066132l-7.565392,7.565392l4.334335,0l-5.595238,5.043591l5.043594,0l-5.043594,5.043594l7.565392,0l0,5.043594l2.521797,0l0,-5.043594l7.565392,0l-5.043594,-5.043594l5.043594,0l-5.595238,-5.043591l4.334335,0l-7.565384,-7.565392z"/>
+  </g>
+  <g id="tree3">
+   <path id="tree3a" stroke-width="0" fill="#007f00" stroke="#00ff00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" d="m64.877701,94.625618l-7.565395,7.565384l4.334339,0l-5.595238,5.043594l5.043594,0l-5.043594,5.043594l7.565392,0l0,5.043594l2.521797,0l0,-5.043594l7.565392,0l-5.043594,-5.043594l5.043594,0l-5.595238,-5.043594l4.334335,0l-7.565384,-7.565384z"/>
+  </g>
+ </g>
+</svg>
