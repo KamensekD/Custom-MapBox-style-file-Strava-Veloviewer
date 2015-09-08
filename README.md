@@ -15,4 +15,7 @@ https://www.openstreetmap.org/#map=17/46.51954/15.55658
 But not (yet?) in Mapbox:
 https://api.mapbox.com/v4/kamac.e58a8d34/page.html?access_token=pk.eyJ1Ijoia2FtYWMiLCJhIjoiNmUzZTg3YzMxZTljOTFjOWE3MzhjOWI2ZjhhMzFmOGMifQ.K75z6vkvQUq-Xoj2h8QKtA#17/46.51954/15.55658
 
-This realization was a game killer for my Mapbox adventure which is on hold now until they make grade info accessable... :(((
+This realization was a game killer for my Mapbox adventure which is on hold now until they make OSM's grade info accessable to Mapbox styles... :(((
+
+Dejan Kamenšek
+sLOVEnia
